@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "lastUpdated": "2024-01-15T10:00:00Z",
+  "scenes": [
+    {
+      "imageName": "blue",
+      "sceneName": "BlueScene",
+      "sceneURL": "https://github.com/hanioum2/ARMuseum_KAT/blob/46117da10f16c51925aeb9036672604291e669bc/scenes/BlueScene.usdz",
+      "imageURL": "https://github.com/hanioum2/ARMuseum_KAT/blob/46117da10f16c51925aeb9036672604291e669bc/anchors/blue.png",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "imageName": "black",
+      "sceneName": "BlackScene",
+      "sceneURL": "https://github.com/hanioum2/ARMuseum_KAT/blob/46117da10f16c51925aeb9036672604291e669bc/scenes/BlackScene.usdz",
+      "imageURL": "https://github.com/hanioum2/ARMuseum_KAT/blob/46117da10f16c51925aeb9036672604291e669bc/anchors/black.png",
+      "enabled": true,
+      "priority": 2
+    }
+  ]
+}
