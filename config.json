@@ -5,7 +5,7 @@
     {
       "imageName": "blue",
       "sceneName": "BlueScene",
-      "sceneURL": "https://github.com/hanioum2/ARMuseum_KAT/raw/refs/heads/main/scenes/BlueScene.usdz",
+      "sceneURL": "https://raw.githubusercontent.com/hanioum2/ARMuseum_KAT/main/scenes/BlueScene.usdz",
       "imageURL": "https://raw.githubusercontent.com/hanioum2/ARMuseum_KAT/refs/heads/main/anchors/blue.png",
       "enabled": true,
       "priority": 1
@@ -13,7 +13,7 @@
     {
       "imageName": "black",
       "sceneName": "BlackScene",
-      "sceneURL": "https://github.com/hanioum2/ARMuseum_KAT/raw/refs/heads/main/scenes/BlackScene.usdz",
+      "sceneURL": "https://raw.githubusercontent.com/hanioum2/ARMuseum_KAT/main/scenes/BlackScene.usdz",
       "imageURL": "https://raw.githubusercontent.com/hanioum2/ARMuseum_KAT/refs/heads/main/anchors/black.png",
       "enabled": true,
       "priority": 2
