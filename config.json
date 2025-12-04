@@ -17,6 +17,14 @@
       "imageURL": "https://raw.githubusercontent.com/hanioum2/ARMuseum_KAT/refs/heads/main/anchors/black.png",
       "enabled": true,
       "priority": 2
+    },
+    {
+      "imageName": "red",
+      "sceneName": "RedScene",
+      "sceneURL": "https://raw.githubusercontent.com/hanioum2/ARMuseum_KAT/main/scenes/RedScene.usdz",
+      "imageURL": "https://raw.githubusercontent.com/hanioum2/ARMuseum_KAT/refs/heads/main/anchors/red.png",
+      "enabled": true,
+      "priority": 3
     }
   ]
 }
